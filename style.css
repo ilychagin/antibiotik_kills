@@ -1,0 +1,17 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: responsive;
+}
+
+img {
+  width: 300px;
+}
+
+body {
+padding-left: 3%
+}
+
+.box {
+  margin-bottom: 3%;
+}
