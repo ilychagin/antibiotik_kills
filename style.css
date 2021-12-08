@@ -15,3 +15,10 @@ padding-left: 3%
 .box {
   margin-bottom: 3%;
 }
+
+
+audio {
+  filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+  width: 400px;
+  height: 125px;
+}
