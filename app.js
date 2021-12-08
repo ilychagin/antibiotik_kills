@@ -48,6 +48,30 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: 'hotdog',
       img: 'images/hotdog.png'
+    },
+    {
+      name: '1',
+      img: 'images/1.png'
+    },
+    {
+      name: '2',
+      img: 'images/2.png'
+    },
+    {
+      name: '3',
+      img: 'images/3.png'
+    },
+    {
+      name: '4',
+      img: 'images/4.png'
+    },
+    {
+      name: '5',
+      img: 'images/5.png'
+    },
+    {
+      name: '6',
+      img: 'images/6.png'
     }
   ]
 
