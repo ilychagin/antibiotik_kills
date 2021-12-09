@@ -50,28 +50,28 @@ document.addEventListener('DOMContentLoaded', () => {
       img: 'images/hotdog.png'
     },
     {
-      name: '1',
-      img: 'images/1.png'
+      name: 'one',
+      img: 'images/one.png'
     },
     {
-      name: '2',
-      img: 'images/2.png'
+      name: 'two',
+      img: 'images/two.png'
     },
     {
-      name: '3',
-      img: 'images/3.png'
+      name: 'three',
+      img: 'images/three.png'
     },
     {
       name: '4',
-      img: 'images/4.png'
+      img: 'images/four.png'
     },
     {
-      name: '5',
-      img: 'images/5.png'
+      name: 'five',
+      img: 'images/five.png'
     },
     {
-      name: '6',
-      img: 'images/6.png'
+      name: 'six',
+      img: 'images/six.png'
     }
   ]
 
