@@ -54,18 +54,6 @@ document.addEventListener('DOMContentLoaded', () => {
       img: 'images/one.png'
     },
     {
-      name: 'two',
-      img: 'images/two.png'
-    },
-    {
-      name: 'three',
-      img: 'images/three.png'
-    },
-    {
-      name: '4',
-      img: 'images/four.png'
-    },
-    {
       name: 'five',
       img: 'images/five.png'
     },
