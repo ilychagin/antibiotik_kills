@@ -60,6 +60,18 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: 'six',
       img: 'images/six.png'
+    },
+    {
+      name: 'one',
+      img: 'images/one.png'
+    },
+    {
+      name: 'five',
+      img: 'images/five.png'
+    },
+    {
+      name: 'six',
+      img: 'images/six.png'
     }
   ]
 
